@@ -67,6 +67,17 @@ Como um cliente interessado em fazer compras online, eu gostaria de simular um c
 ## :shipit: Dicas
 
 
+### Prompt: 
+
+[Instalando prompt](https://www.npmjs.com/package/prompt-sync)
+
+- CERTIFIQUE-SE DE ESTAR NO CAMINHO CORRETO
+  
+~~~javascript
+npm i prompt-sync
+~~~
+
+
  - Certifique-se de estar com a sua maquina configurada de acordo com as aulas vistas anteriormente.
 
  - Lembre se que o método `prompt()` em JavaScript retorna uma string. Ele exibe uma caixa de diálogo que permite ao usuário inserir um texto e retorna esse texto como uma string. 
